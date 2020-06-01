@@ -1,0 +1,57 @@
+body {
+    overflow-x: hidden;
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: #505962;
+    text-transform: capitalize;
+  }
+ .navbar{
+     background-color: #222831 !important;
+ }
+ .navbar-nav li a{
+     color:white !important;
+     font-size: medium;
+     font-weight: bold;
+     margin-right: 25px;
+ }
+ .navbar-nav li a:hover{
+     color:rgb(180, 173, 173) !important;
+ }
+ 
+ 
+ 
+ #course{
+     padding: 60px 0;
+
+ }
+ #footer{
+     padding: 20px 0;
+     color:white;
+ }
+ #lt2{
+     padding: 25px 0;
+ }
+ #bt{
+     background-color: rgb(135, 69, 197);
+     color:white;
+ }
+  #feature{
+      padding: 60px 0;
+      background-color:#bbb2b2;
+
+  }
+  .jst{
+      text-align: justify;
+  }
+  #lbt:hover{
+      background-color: white !important;
+      color:black !important;
+  }
+  #lbt{
+      border: 1px solid white;
+  }
+  #lt2 #bt{
+      margin-bottom: 10px;
+  }
+
+
+  
